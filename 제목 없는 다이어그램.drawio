@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T16:31:38.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FwIyNPDd3QGN7c2RRoqJ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T16:34:32.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZBxjJs69BqKZHYImOfQI" version="22.1.18" type="github">
   <diagram name="페이지-1" id="pCHGzFSRrwRt8wxoM6YM">
-    <mxGraphModel dx="5268" dy="1500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5587" dy="1667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,10 +246,10 @@
           <mxGeometry x="1781" y="1619" width="145.73" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nTqRGTXPGfQd_8poNiP6-24" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3440" y="1635" width="324" height="209" as="geometry" />
+          <mxGeometry x="3442" y="1498" width="324" height="207" as="geometry" />
         </mxCell>
         <mxCell id="nTqRGTXPGfQd_8poNiP6-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png;" vertex="1" parent="1">
-          <mxGeometry x="3493.6" y="1687.5" width="216.79" height="112" as="geometry" />
+          <mxGeometry x="3495.6" y="1550.5" width="216.79" height="112" as="geometry" />
         </mxCell>
         <mxCell id="nTqRGTXPGfQd_8poNiP6-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://playinpap.github.io/static/fbe6ffad75cc43b4fef5efbcabec2716/b5cea/docker-logo.png;" vertex="1" parent="1">
           <mxGeometry x="2723" y="1109" width="145.73" height="130" as="geometry" />
@@ -284,6 +284,39 @@
               <mxPoint x="2652" y="1968" />
               <mxPoint x="2134" y="1968" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-42" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3441.99" y="1808" width="324" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png;" vertex="1" parent="1">
+          <mxGeometry x="3554.99" y="1823" width="109" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-41" value="Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="3575.99" y="1928" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3348" y="1574" as="sourcePoint" />
+            <mxPoint x="3343" y="1911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3345" y="1749" as="sourcePoint" />
+            <mxPoint x="3277" y="1749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3441" y="1574" as="sourcePoint" />
+            <mxPoint x="3348" y="1574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nTqRGTXPGfQd_8poNiP6-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3438" y="1910" as="sourcePoint" />
+            <mxPoint x="3345" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
