@@ -839,7 +839,7 @@
           <mxGeometry x="-6151.49" y="4222.66" width="110.26" height="136.82" as="geometry" />
         </mxCell>
         <mxCell id="pPHqMGd-Oy9BBSBgul-b-41" value="Flutter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;fontColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-6212.37" y="4381" width="218" height="64" as="geometry" />
+          <mxGeometry x="-6212.37" y="4367" width="218" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pPHqMGd-Oy9BBSBgul-b-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="pPHqMGd-Oy9BBSBgul-b-43" target="pPHqMGd-Oy9BBSBgul-b-45">
           <mxGeometry relative="1" as="geometry" />
@@ -906,6 +906,12 @@
             <mxPoint x="-5412" y="4329" as="sourcePoint" />
             <mxPoint x="-5986" y="4328" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pPHqMGd-Oy9BBSBgul-b-69" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/aws-ec2-icon-1696x2048-nhw31ife.png;" vertex="1" parent="1">
+          <mxGeometry x="-4368" y="3914" width="116.79" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="pPHqMGd-Oy9BBSBgul-b-70" value="AWS EC2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=29;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-4373" y="4060" width="134" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
